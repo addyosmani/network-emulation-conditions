@@ -1,5 +1,7 @@
 # network-emulation-conditions
-Network emulation conditions
+
+Settings for network emulation conditions (e.g Regular 3G, 2G, WiFi, DSL, GPRS and so on). Useful for 
+anyone building web performance tooling.
 
 ## Install
 
