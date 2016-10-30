@@ -37,7 +37,9 @@ and 100ms latency.
 * DSL
 * WIFI
 
-These network emulation conditions match those used in the Chrome Developer Tools.
+These network emulation conditions match those used in the Chrome Developer Tools:
+
+<img src="https://cloud.githubusercontent.com/assets/110953/19839637/b7335b5e-9ea2-11e6-81c8-6b462c04e3dd.jpg" width="420px"/>
 
 ## License
 
