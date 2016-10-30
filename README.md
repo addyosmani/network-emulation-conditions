@@ -20,6 +20,10 @@ console.log(conditions.REGULAR_3G);
   latency: 100 }
 ```
 
+These correlate to download throughput, upload throughput and network latency. `REGULAR_3G`
+for example is calculated as `750 * 1024 / 8` (750kbps download), `250 * 1024 / 8` (250kbps upload)
+and 100ms latency.
+
 ## Available conditions
 
 * GPRS
