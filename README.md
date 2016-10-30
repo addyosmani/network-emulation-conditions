@@ -1,2 +1,2 @@
-# network-conditions
+# network-emulation-conditions
 Network emulation conditions
