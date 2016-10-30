@@ -1,0 +1,30 @@
+{
+  "name": "network-emulation-conditions",
+  "version": "1.0.0",
+  "description": "Network emulation conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addyosmani/network-conditions.git"
+  },
+  "keywords": [
+    "network",
+    "emulation",
+    "conditions",
+    "network emulation",
+    "network throttling",
+    "devtools"
+  ],
+  "author": "Addy Osmani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/addyosmani/network-conditions/issues"
+  },
+  "engines": {
+    "node": ">= 4.4.6"
+  },
+  "homepage": "https://github.com/addyosmani/network-conditions#readme"
+}
