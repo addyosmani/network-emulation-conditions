@@ -31,6 +31,12 @@ const networkConditions = {
         upload: 50 * 1024 / 8, // 50kbps
         latency: 300 // 300ms
     },
+    SLOW_3G: {
+        title: "Slow 3G",
+        download: 500 * 1024 / 8 * .8, // 400kbps
+        upload: 500 * 1024 / 8 * .8, // 400kbps
+        latency: 400 * 5 // 2000ms
+    },
     GOOD_2G: {
         title: "Good 2G",
         download: 450 * 1024 / 8, // 450kbps
@@ -42,6 +48,12 @@ const networkConditions = {
         download: 750 * 1024 / 8, // 750kbps
         upload: 250 * 1024 / 8, // 250kbps
         latency: 100 // 100ms
+    },
+    FAST_3G: {
+        title: "Fast 3G",
+        download: 1.6 * 1024 * 1024 / 8 * .9, // 1.44kbps
+        upload: 750 * 1024 / 8 * .9, // 675kbps
+        latency: 150 * 3.75 // 562.5ms
     },
     GOOD_3G: {
         title: "Good 3G",
