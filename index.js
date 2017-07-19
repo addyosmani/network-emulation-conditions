@@ -51,7 +51,7 @@ const networkConditions = {
     },
     FAST_3G: {
         title: "Fast 3G",
-        download: 1.6 * 1024 * 1024 / 8 * .9, // 1.44kbps
+        download: 1.6 * 1024 * 1024 / 8 * .9, // 1.44mbps
         upload: 750 * 1024 / 8 * .9, // 675kbps
         latency: 150 * 3.75 // 562.5ms
     },
